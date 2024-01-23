@@ -1,4 +1,4 @@
-<h1>Hello, I'm Nari, an <a href="linkedin.com/in/nari-garrett-9b1954199">">LinkedIn</a>IT Professional<//h1> 😎
+<h1>Hello, I'm Nari, an <a href="linkedin.com/in/nari-garrett-9b1954199">"LinkedIn</a>IT Professional<//h1> 😎
 
 <h2>👨🏽‍💻 Information Technology Projects:</h2>
 

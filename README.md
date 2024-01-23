@@ -1,6 +1,6 @@
-<h1>Hello, I'm Nari, an <a href="www.linkedin.com/in/nari-garrett-9b1954199">IT Professional<//h1> 😎
+<h1>Hello, I'm Nari, an <a href="linkedin.com/in/nari-garrett-9b1954199">IT Professional<//h1> 😎
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨🏽‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/nkgarrett/osticket-prereqs)

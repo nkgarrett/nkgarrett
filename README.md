@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/nkgarrett/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/nkgarrett/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Creating a Resource Group](https://github.com/nkgarrett/Resource-Group-Setup)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/nkgarrett/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/nkgarrett/azure-network-protocols)
 

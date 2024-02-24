@@ -8,6 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/nkgarrett/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Creating a Resource Group](https://github.com/nkgarrett/Resource-Group-Setup)
+  - [Creating a Virtual Machine](https://github.com/nkgarrett/Virtual-Machine-Setup)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/nkgarrett/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/nkgarrett/azure-network-protocols)
 
